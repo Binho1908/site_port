@@ -11,8 +11,8 @@
 </head>
 <body>
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
-        <h2>Indice dos Exercícios</h2>
+        <h1>Projetos</h1>
+        <h2>Estudos 2021</h2>
     </header>
     
     <main class="principal">
@@ -32,13 +32,27 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>SEASON</h3>
+                    <h3>Estações</h3>
                     <ul>
                         <li>
                             <center>
-                            <p>FOTOS ESTAÇOES</p>
+                            <p>Fotos Estações</p>
                             <a href="projectDayOne/index.html">
-                            <img src="imagens/sum.png" alt="Site Js"></a>
+                            <img src="imagens/sum.png" alt="Sites Js"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                            </center>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <h3>Etapa Dinâmica</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>ETAPAS DE PROGRESSO</p>
+                            <a href="projectDayTwo/index.html">
+                            <img src="imagens/steps.png" alt="Sites Js"></a>
                             <p>Site feito com html, css, JavaScript</p>
                             </center>
                         </li>
