@@ -59,6 +59,20 @@
 
                     </ul>
                 </div>
+                <div class="modulo verde-escuro">
+                    <h3>Etapa Dinâmica</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>ETAPAS DE PROGRESSO</p>
+                            <a href="ProjectDayThree/index.html">
+                            <img src="imagens/steps.png" alt="Sites Js"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                            </center>
+                        </li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
