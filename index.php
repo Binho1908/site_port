@@ -60,13 +60,27 @@
                     </ul>
                 </div>
                 <div class="modulo verde-escuro">
-                    <h3>Etapa Dinâmica</h3>
+                    <h3>Amazing Article</h3>
                     <ul>
                         <li>
                             <center>
-                            <p>ETAPAS DE PROGRESSO</p>
+                            <p>Site com elevação ao ativar o menu</p>
                             <a href="ProjectDayThree/index.html">
-                            <img src="imagens/steps.png" alt="Sites Js"></a>
+                            <img src="imagens/amazing.png" alt="Sites Js"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                            </center>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="modulo roxo-escuro">
+                    <h3>Search Dinâmico</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Search com transition</p>
+                            <a href="ProjectDayFour/index.html">
+                            <img src="imagens/search.png" alt="Sites Js"></a>
                             <p>Site feito com html, css, JavaScript</p>
                             </center>
                         </li>
