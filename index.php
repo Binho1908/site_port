@@ -87,6 +87,20 @@
 
                     </ul>
                 </div>
+                <div class="modulo vermelho">
+                    <h3>Blur animate</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Blur</p>
+                            <a href="ProjectDayFive/index.html">
+                            <img src="imagens/blur.png" alt="Sites Js"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                            </center>
+                        </li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
