@@ -101,6 +101,20 @@
 
                     </ul>
                 </div>
+                <div class="modulo azul-escuro">
+                    <h3>Scroll to see the animation</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Scroll</p>
+                            <a href="ProjectDaySix/index.html">
+                            <img src="imagens/scroll.png" alt="Site Scroll Js"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                            </center>
+                        </li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
