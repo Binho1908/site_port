@@ -31,6 +31,19 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo verde">
+                    <h3>Split Landing PageSite </h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Play and Xbox animado com css e js</p>
+                            <a href="ProjectDaySeven/index.html">
+                            <img src="imagens/mauseenter.png" alt="Site Com Animação mause enter"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            </center>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>Estações</h3>
                     <ul>
