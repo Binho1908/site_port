@@ -129,7 +129,10 @@ img {
 .modulo.azul-escuro > h3 { background-color: #0d47a1; } 
 
 .modulo.roxo-escuro { border: 2px solid #4a148c; }
-.modulo.roxo-escuro > h3 { background-color: #4a148c; } 
+.modulo.roxo-escuro > h3 { background-color: #4a148c; }
+
+.modulo.rosa-claro { border: 2px solid #e092d3; }
+.modulo.rosa-claro > h3 { background-color: #e092d3; } 
 
 p.divisao {
         margin-bottom: 0px;

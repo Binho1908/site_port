@@ -44,6 +44,19 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo rosa-claro">
+                    <h3>Input Wave</h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Input animated</p>
+                            <a href="ProjectDayEight/index.html">
+                            <img src="imagens/waveinp.png" alt="Site Com Animação mause enter"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            </center>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo roxo">
                     <h3>Estações</h3>
                     <ul>
