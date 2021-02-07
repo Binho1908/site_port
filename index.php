@@ -44,6 +44,19 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo gradiente">
+                    <h3>Sound Board </h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Sound Board Click</p>
+                            <a href="ProjectDayNine/index.html">
+                            <img src="imagens/sound.png" alt="Site Com Animação mause enter"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            </center>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo rosa-claro">
                     <h3>Input Wave</h3>
                     <ul>

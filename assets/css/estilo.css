@@ -134,6 +134,11 @@ img {
 .modulo.rosa-claro { border: 2px solid #e092d3; }
 .modulo.rosa-claro > h3 { background-color: #e092d3; } 
 
+.modulo.gradiente{ border: 2px solid rgba(241, 141, 26, 0.9); }
+.modulo.gradiente > h3 { background-image: linear-gradient(to bottom right, red, yellow); } 
+
+
+
 p.divisao {
         margin-bottom: 0px;
         font-weight: bold;
