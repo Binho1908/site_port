@@ -137,6 +137,8 @@ img {
 .modulo.gradiente{ border: 2px solid rgba(241, 141, 26, 0.9); }
 .modulo.gradiente > h3 { background-image: linear-gradient(to bottom right, red, yellow); } 
 
+.modulo.rosa-escandalo { border: 2px solid #b9009a; }
+.modulo.rosa-escandalo > h3 { background-color: #b9009a; } 
 
 
 p.divisao {
