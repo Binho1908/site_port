@@ -107,6 +107,9 @@ img {
 .modulo.verde { border: 2px solid #4caf50; }
 .modulo.verde > h3 { background-color: #4caf50; }
 
+.modulo.violeta { border: 2px solid #bfa7ec; }
+.modulo.violeta > h3 { background-color: #bfa7ec; }
+
 .modulo.vermelho { border: 2px solid #f44336; }
 .modulo.vermelho > h3 { background-color: #f44336; } 
 
@@ -139,6 +142,11 @@ img {
 
 .modulo.rosa-escandalo { border: 2px solid #b9009a; }
 .modulo.rosa-escandalo > h3 { background-color: #b9009a; } 
+
+.modulo.laranja-dark { border: 2px solid #ff7b00; }
+.modulo.laranja-dark > h3 { background-color: #ff7b00; } 
+
+
 
 
 p.divisao {

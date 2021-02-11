@@ -4,7 +4,7 @@ const jokeBtn = document.getElementById('jokeBtn');
 jokeBtn.addEventListener('click', generateJoke)
 
 generateJoke()
-
+//USING ASYNC AWAIT 
 async function generateJoke() {
     const config = {
         headers: {
@@ -18,7 +18,7 @@ async function generateJoke() {
 
     jokeEl.innerHTML = data.joke
 }
-
+//USING .THEN
 // function generateJoke() {
 //     const config = {
 //         headers: {

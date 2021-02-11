@@ -44,6 +44,32 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo violeta">
+                    <h3>FAQ </h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Frequenly Ask</p>
+                            <a href="ProjectDayTwelve/index.html">
+                            <img src="imagens/faq.png" alt="Site Com Animação mause enter"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            </center>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo laranja-dark">
+                    <h3>Key Code </h3>
+                    <ul>
+                        <li>
+                            <center>
+                            <p>Key code</p>
+                            <a href="ProjectDayEleven/index.html">
+                            <img src="imagens/key.png" alt="Site Com Animação mause enter"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            </center>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo gradiente">
                     <h3>Sound Board </h3>
                     <ul>
