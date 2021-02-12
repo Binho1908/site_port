@@ -42,8 +42,8 @@
                     <ul>
                         <li>
                             <p>Hotel Paraiso</p>
-                            <a href="/index.php">
-                            <img src="imagens/site_flex.png" alt="Site FlexBox"></a>
+                            <a href="ProjectDayThirteen/index.html">
+                            <img src="imagens/subs.png" alt="Site FlexBox"></a>
                             <p>Site feito com html, css, JavaScript, PHP</p>
                         </li>
                     </ul>
