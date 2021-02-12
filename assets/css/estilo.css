@@ -104,47 +104,162 @@ img {
     background-color: #eee;
 }
 
-.modulo.verde { border: 2px solid #4caf50; }
-.modulo.verde > h3 { background-color: #4caf50; }
+.modulo.um { border: 2px solid #4caf50; }
+.modulo.um > h3 { background-color: #4caf50; }
 
-.modulo.violeta { border: 2px solid #bfa7ec; }
-.modulo.violeta > h3 { background-color: #bfa7ec; }
+.modulo.dois { border: 2px solid #bfa7ec; }
+.modulo.dois > h3 { background-color: #bfa7ec; }
 
-.modulo.vermelho { border: 2px solid #f44336; }
-.modulo.vermelho > h3 { background-color: #f44336; } 
+.modulo.tres { border: 2px solid #f44336; }
+.modulo.tres > h3 { background-color: #f44336; } 
 
-.modulo.azul { border: 2px solid #7196f3; }
-.modulo.azul > h3 { background-color: #7196f3; }
+.modulo.quatro { border: 2px solid #7196f3; }
+.modulo.quatro > h3 { background-color: #7196f3; }
 
-.modulo.roxo { border: 2px solid #9c27b0; }
-.modulo.roxo > h3 { background-color: #9c27b0; } 
+.modulo.cinco { border: 2px solid #9c27b0; }
+.modulo.cinco > h3 { background-color: #9c27b0; } 
 
-.modulo.laranja { border: 2px solid #ff9800; }
-.modulo.laranja > h3 { background-color: #ff9800; } 
+.modulo.seis { border: 2px solid #ff9800; }
+.modulo.seis > h3 { background-color: #ff9800; } 
 
-.modulo.verde-escuro { border: 2px solid #1b5e20; }
-.modulo.verde-escuro > h3 { background-color: #1b5e20; } 
+.modulo.sete { border: 2px solid #1b5e20; }
+.modulo.sete > h3 { background-color: #1b5e20; } 
 
-.modulo.vermelho-escuro { border: 2px solid #b71c1c; }
-.modulo.vermelho-escuro > h3 { background-color: #b71c1c; } 
+.modulo.oito { border: 2px solid #b71c1c; }
+.modulo.oito > h3 { background-color: #b71c1c; } 
 
-.modulo.azul-escuro { border: 2px solid #0d47a1; }
-.modulo.azul-escuro > h3 { background-color: #0d47a1; } 
+.modulo.nove { border: 2px solid #0d47a1; }
+.modulo.nove > h3 { background-color: #0d47a1; } 
 
-.modulo.roxo-escuro { border: 2px solid #4a148c; }
-.modulo.roxo-escuro > h3 { background-color: #4a148c; }
+.modulo.dez { border: 2px solid #4a148c; }
+.modulo.dez > h3 { background-color: #4a148c; }
 
-.modulo.rosa-claro { border: 2px solid #e092d3; }
-.modulo.rosa-claro > h3 { background-color: #e092d3; } 
+.modulo.onze { border: 2px solid #e092d3; }
+.modulo.onze > h3 { background-color: #e092d3; } 
 
-.modulo.gradiente{ border: 2px solid rgba(241, 141, 26, 0.9); }
-.modulo.gradiente > h3 { background-image: linear-gradient(to bottom right, red, yellow); } 
+.modulo.doze{ border: 2px solid rgba(241, 141, 26, 0.9); }
+.modulo.doze > h3 { background-image: linear-gradient(to bottom right, red, yellow); } 
 
-.modulo.rosa-escandalo { border: 2px solid #b9009a; }
-.modulo.rosa-escandalo > h3 { background-color: #b9009a; } 
+.modulo.treze { border: 2px solid #b9009a; }
+.modulo.treze > h3 { background-color: #b9009a; } 
 
-.modulo.laranja-dark { border: 2px solid #ff7b00; }
-.modulo.laranja-dark > h3 { background-color: #ff7b00; } 
+.modulo.quatorze { border: 2px solid #351001; }
+.modulo.quatorze > h3 { background-color: #351001; } 
+
+.modulo.quinze { border: 2px solid #3b3a3b; }
+.modulo.quinze > h3 { background-color: #3b3a3b; } 
+
+.modulo.dezesseis { border: 2px solid #1d2; }
+.modulo.dezesseis > h3 { background-color: #1d2; } 
+
+.modulo.dezessete { border: 2px solid #e46; }
+.modulo.dezessete > h3 { background-color: #e46; } 
+
+.modulo.dezoito { border: 2px solid #b98eb2; }
+.modulo.dezoito > h3 { background-color: #b98eb2; } 
+
+.modulo.dezenove { border: 2px solid rgb(235, 159, 47); }
+.modulo.dezenove > h3 { background-color: rgb(235, 159, 47); } 
+
+.modulo.vinte { border: 2px solid #5cd4c4; }
+.modulo.vinte > h3 { background-color: #5cd4c4; }
+
+.modulo.vinteeum { border: 2px solid #6b9962; }
+.modulo.vinteeum > h3 { background-color: #6b9962; } 
+
+.modulo.vinteedois { border: 2px solid #45618b; }
+.modulo.vinteedois > h3 { background-color: #45618b; } 
+
+.modulo.vinteetres { border: 2px solid #f01041; }
+.modulo.vinteetres > h3 { background-color: #f01041; } 
+
+.modulo.vinteequatro { border: 2px solid #e6dc88; }
+.modulo.vinteequatro > h3 { background-color: #e6dc88; } 
+
+.modulo.vinteecinco { border: 2px solid #eebae5; }
+.modulo.vinteecinco > h3 { background-color: #eebae5; } 
+
+.modulo.vinteeseis { border: 2px solid #00042c; }
+.modulo.vinteeseis > h3 { background-color: #00042c; } 
+
+.modulo.vinteesete { border: 2px solid #6b7766; }
+.modulo.vinteesete > h3 { background-color: #6b7766; } 
+
+.modulo.vinteeoito { border: 2px solid #fc6ee4; }
+.modulo.vinteeoito > h3 { background-color: #fc6ee4; } 
+
+.modulo.vinteenove { border: 2px solid #383300; }
+.modulo.vinteenove > h3 { background-color: #383300; } 
+
+.modulo.trinta { border: 2px solid #474647; }
+.modulo.trinta > h3 { background-color: #474647; } 
+
+.modulo.trintaeum { border: 2px solid #70ffe0; }
+.modulo.trintaeum > h3 { background-color: #70ffe0; } 
+
+.modulo.trintaedois { border: 2px solid #dda815; }
+.modulo.trintaedois > h3 { background-color: #dda815; } 
+
+.modulo.trintaetres { border: 2px solid #585fa3; }
+.modulo.trintaetres > h3 { background-color: #585fa3; } 
+
+.modulo.trintaequatro { border: 2px solid #94b341; }
+.modulo.trintaequatro > h3 { background-color: #94b341; } 
+
+.modulo.trintaecinco { border: 2px solid #680000; }
+.modulo.trintaecinco > h3 { background-color: #680000; } 
+
+.modulo.trintaeseis { border: 2px solid #df9fd4; }
+.modulo.trintaeseis > h3 { background-color: #df9fd4; } 
+
+.modulo.trintaesete { border: 2px solid #9155d4; }
+.modulo.trintaesete > h3 { background-color: #9155d4; } 
+
+.modulo.trintaeoito { border: 2px solid #9df8c3; }
+.modulo.trintaeoito > h3 { background-color: #9df8c3; } 
+
+.modulo.trintaenove { border: 2px solid #c06b68; }
+.modulo.trintaenove > h3 { background-color: #c06b68; } 
+
+.modulo.quarenta { border: 2px solid #c8ec72; }
+.modulo.quarenta > h3 { background-color: #c8ec72; } 
+
+.modulo.quarentaeum { border: 2px solid #002c49; }
+.modulo.quarentaeum > h3 { background-color: #002c49; } 
+
+.modulo.quarentaedois { border: 2px solid #67aee9; }
+.modulo.quarentaedois > h3 { background-color: #67aee9; } 
+
+.modulo.quarentaetres { border: 2px solid #410036; }
+.modulo.quarentaetres > h3 { background-color: #410036; } 
+
+.modulo.quarentaequatro { border: 2px solid #4ce4ff; }
+.modulo.quarentaequatro > h3 { background-color: #4ce4ff; } 
+
+.modulo.quarentaecinco { border: 2px solid #c6db68; }
+.modulo.quarentaecinco > h3 { background-color: #c6db68; } 
+
+.modulo.quarentaeseis { border: 2px solid #a8a3a7; }
+.modulo.quarentaeseis > h3 { background-color: #a8a3a7; } 
+
+.modulo.quarentaesete { border: 2px solid #f05252; }
+.modulo.quarentaesete > h3 { background-color: #f05252; } 
+
+.modulo.quarentaeoito { border: 2px solid #16727e; }
+.modulo.quarentaeoito > h3 { background-color: #16727e; } 
+
+.modulo.quarentaenove { border: 2px solid #fbff03; }
+.modulo.quarentaenove > h3 { background-color: #fbff03; }
+
+.modulo.cinquenta { border: 2px solid #aa4f49; }
+.modulo.cinquenta > h3 { background-color: #aa4f49; } 
+
+.modulo.cinquentaeum { border: 2px solid #700f0f; }
+.modulo.cinquentaeum > h3 { background-color: #700f0f } 
+
+.modulo.cinquentaedois { border: 2px solid #0075b9; }
+.modulo.cinquentaedois > h3 { background-color: #0075b9; } 
+
 
 
 
