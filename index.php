@@ -37,12 +37,24 @@
                         </li>
                     </ul>
                 </div>
-                <div class="modulo treze">
-                    <h3>Site de Hotel</h3>
+                <div class="modulo quatorze">
+                    <h3>Rand</h3>
                     <ul>
                         <li>
-                            <p>Hotel Paraiso</p>
+                            <p>Random</p>
                             <a href="ProjectDayThirteen/index.html">
+                            <img src="imagens/rand.png" alt="Site FlexBox"></a>
+                            <p>Site feito com html, css, JavaScript, PHP</p>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo treze">
+                    <h3>Placar Escritos
+                    </h3>
+                    <ul>
+                        <li>
+                            <p>High</p>
+                            <a href="ProjectDayFifteen/index.html">
                             <img src="imagens/subs.png" alt="Site FlexBox"></a>
                             <p>Site feito com html, css, JavaScript, PHP</p>
                         </li>
