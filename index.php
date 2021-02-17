@@ -37,6 +37,17 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo quinze">
+                    <h3>Nav</h3>
+                    <ul>
+                        <li>
+                            <p>Nav animated</p>
+                            <a href="ProjectDayFourteen/index.html">
+                            <img src="imagens/nav.png" alt="Site FlexBox"></a>
+                            <p>Site feito com html, css, JavaScript</p>
+                        </li>
+                    </ul>
+                </div>
                 <div class="modulo quatorze">
                     <h3>Rand</h3>
                     <ul>
@@ -44,7 +55,7 @@
                             <p>Random</p>
                             <a href="ProjectDayThirteen/index.html">
                             <img src="imagens/rand.png" alt="Site FlexBox"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -56,7 +67,7 @@
                             <p>High</p>
                             <a href="ProjectDayFifteen/index.html">
                             <img src="imagens/subs.png" alt="Site FlexBox"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -67,7 +78,7 @@
                             <p>Play and Xbox animado com css e js</p>
                             <a href="ProjectDaySeven/index.html">
                             <img src="imagens/mauseenter.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -78,7 +89,7 @@
                             <p>Frequenly Ask</p>
                             <a href="ProjectDayTwelve/index.html">
                             <img src="imagens/faq.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -89,7 +100,7 @@
                             <p>Key code</p>
                             <a href="ProjectDayEleven/index.html">
                             <img src="imagens/key.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -100,7 +111,7 @@
                             <p>Sound Board Click</p>
                             <a href="ProjectDayNine/index.html">
                             <img src="imagens/sound.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -111,7 +122,7 @@
                             <p>Input animated</p>
                             <a href="ProjectDayEight/index.html">
                             <img src="imagens/waveinp.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
@@ -122,7 +133,7 @@
                             <p>Joke</p>
                             <a href="ProjectDayTen/index.html">
                             <img src="imagens/joke.png" alt="Site Com Animação mause enter"></a>
-                            <p>Site feito com html, css, JavaScript, PHP</p>
+                            <p>Site feito com html, css, JavaScript</p>
                         </li>
                     </ul>
                 </div>
